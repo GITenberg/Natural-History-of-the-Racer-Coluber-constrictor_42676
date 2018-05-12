@@ -1,0 +1,27 @@
+_repo: Natural-History-of-the-Racer-Coluber-constrictor_42676
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fitch, Henry S. (Henry Sheldon)
+    birthdate: 1909
+    deathdate: 2009
+    gutenberg_agent_id: '36389'
+    url: http://www.gutenberg.org/2009/agents/36389
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
+description: ''
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racer snake'
+- !lcc 'QH'
+title: Natural History of the Racer Coluber constrictor
+url: http://www.gutenberg.org/ebooks/42676
